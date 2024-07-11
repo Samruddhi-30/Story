@@ -1,0 +1,1 @@
+These are the contents in the second file made using terminal and the name of the file is chapter2
